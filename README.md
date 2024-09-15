@@ -18,18 +18,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![alt text](image.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - This project uses the picPainter classn to create an image of Bill Cipher. The code uses a variaty of while loopps and if statments and many methodes to complete this picture
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Im proud of bwing able to code this and the way it turned out
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would add more details if I had more time and would change the code and used some if else statments.
